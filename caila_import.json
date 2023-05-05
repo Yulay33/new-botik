@@ -1,8 +1,8 @@
 {
   "project" : {
-    "id" : "cinnabot_team-1000065235-UJt",
-    "name" : "cinnabot_team-1000065235-UJt",
-    "folder" : "/jaicp"
+    "id" : "botik_rusich-1000089135-iBA",
+    "name" : "botik_rusich-1000089135-iBA",
+    "folder" : "/platform"
   },
   "settings" : {
     "language" : "ru",
@@ -13,7 +13,13 @@
       "tokenizerEngine" : "mystem",
       "useShared" : false
     },
-    "shared" : false
+    "shared" : false,
+    "validation" : {
+      "phraseValidationEnabled" : false,
+      "answerValidationEnabled" : false,
+      "phraseValidationThreshold" : 0.5,
+      "answerValidationThreshold" : 0.8
+    }
   },
   "intents" : [ {
     "path" : "/пока",
@@ -144,5 +150,6 @@
     "name" : "zb.number",
     "enabled" : false
   } ],
-  "faq" : [ ]
+  "faq" : [ ],
+  "skills" : [ ]
 }
