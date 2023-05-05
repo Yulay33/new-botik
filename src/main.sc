@@ -62,7 +62,7 @@ theme: /
         # тег "a" предназначени для вывода сообщения пользователю
 #        a: Ссылка на базу знаний: https://coda.io/d/_dgZS7-2eeoY/_suh9h#_luTiK
 #        a: Ссылка на базу знаний: https://coda.io/d/CINNABON_doT76Y3ewFx/_surLS#_luKhB
-        a: Ссылка на базу знаний: https://coda.io/d/24-10_dHHq7vmGxH9/_su47G#_luTFL
+        a: Ссылка на базу знаний: https://coda.io/d/_dMcDuoSN4e7/_suSE4#_luAfx
         # тег "inlineButtons" выводит кнопки пользователю внутри сообщения
         # при нажатии кнопки пользоватлем в телеграм, срабатывает сообытие telegramCallbackQuery.
         # Чтобы отловиить данное сообытие, использзуется тег "event!". 
